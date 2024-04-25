@@ -4,6 +4,7 @@
 
 ### Analysis of Brazilian Medical Appointments Analysis
 
+In this project I use pandas, numpy, and matplotlib to analyse more or less people show up for medical appointments in Brazilian hospitals asking questions such as:
 - Do people show up more for appointments on average?
 - Are certain characteristics associated with showing up or not showing up for appointments?
   
