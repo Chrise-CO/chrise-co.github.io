@@ -1,4 +1,4 @@
-title: Chrise Mmara Onwuka # your name (or website title) here
+title: Chrise C. Onwuka # your name (or website title) here
 logo: "/images/4PhotoFeeler.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst with 4+ years experience in analytics, health care/biotechnology,
@@ -9,7 +9,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/chrisconwuka/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+# - jekyll-remote-theme
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
