@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Chrise C. Onwuka # your name (or website title) here
+logo: "/images/4PhotoFeeler.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Analyst with 4+ years experience in analytics, health care/biotechnology,
+  civic engagement, and education with a BSc in Biochemistry from the University of Nigeria, Nsukka. 
+  Previously at African Union Commission (AU-ARBE/PANVAC), Our Lady of Nigeria College. 
   <br><br>
-  Second description 
+  AU-YVC Alumni. ALX Certified Data Analyst.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/chrisconwuka/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
