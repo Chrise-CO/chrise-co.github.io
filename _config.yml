@@ -2,20 +2,18 @@ title: Chrise C. Onwuka # your name (or website title) here
 logo: "/images/4PhotoFeeler.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Data Analyst with 4+ years experience in analytics, health care/biotechnology,
+  Data Analyst with 4+ years experience in data analytics, health care/biotechnology,
   civic engagement, and education with a BSc in Biochemistry from the University of Nigeria, Nsukka. 
   Previously at African Union Commission (AU-ARBE/PANVAC), Our Lady of Nigeria College. 
   <br><br>
-  AU-YVC Alumni. ALX Certified Data Analyst.
+  African Union-Youth Volunteer Corps Alumni. ALX (African Leadership Group) Certified Data Analyst.
   <br><br>
   <a href="https://www.linkedin.com/in/chrisconwuka/">View My LinkedIn Profile</a> 
   
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-# - jekyll-remote-theme
-# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-theme: jekyll-theme-minimal
-# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 colors:
   crimson: '#900C3F'
