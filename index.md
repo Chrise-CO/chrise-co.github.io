@@ -8,7 +8,7 @@ In this project I use pandas, numpy, and matplotlib to analyse more or less peop
 - Do people show up more for appointments on average?
 - Are certain characteristics associated with showing up or not showing up for appointments?
   
-<img src="images/BrazilianMedAppoint_AgeVsAppoint.png?raw=true"/>
+<img src="images/age_vs_appointments.png?raw=true"/> <img src="images/age_vs_appointments.png?raw=true"/>
 
 [View Code on GitHub](https://github.com/Chrise-CO/Brazilian-Medical-Appointments-Data-Analysis-)
 
