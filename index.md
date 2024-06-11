@@ -6,7 +6,7 @@
 
 In a world where time is invaluable, missed appointments can be much more than a nuisance. From affecting patient well-being and continuity of care to serious financial effects on organizations, patient no-shows pose a significant problem in healthcare. Finding the right solution to reduce no-shows is key not only to improving overall patient well-being  but to cut costs which can range [from $150 million](https://mend.com/resource/how-to-reduce-no-shows-in-healthcare-immediately/)  to [billions of dollars every year](https://www.forbes.com/sites/sachinjain/2019/10/06/missed-appointments-missed-opportunities-tackling-the-patient-no-show-problem/?sh=72d0d5e8573b) for the healthcare system. With a number of ways available to curtail the no-show rates of organizations, it is equally vital to assess which measures are most effective in eliminating or decreasing no-show rates to direct organizations to incorporate appropriate solutions to reducing no-shows.
 
-In this project, I investigate data on over 100k medical appointments in Brazil with details among which include measures to control no-show appointments such as the ***Brazilian welfare program***, ([*Bolsa Família*](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)) and ***SMS Notification***. Utilizing `Pandas`, `NumPy`, and `Matplotlib`, I clean, analyze and visualize trends in the data to bring to light how people show up for medical appointments in Brazil asking questions such as:
+In this project, I investigate data on **over 100k** medical appointments in Brazil with details among which include measures to control no-show appointments such as the *Brazilian welfare program*, ([*Bolsa Família*](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)) and *SMS Notification*. Utilizing `Pandas`, `NumPy`, and `Matplotlib`, I clean, analyze and visualize trends in the data to bring to light how people show up for medical appointments in Brazil asking questions such as:
 -	Do people show up more for appointments on average?
 -	Are certain characteristics associated with showing up or not showing up for appointments?
 -	Is there a correlation among characteristics in question?
@@ -23,7 +23,7 @@ In this project, I investigate data on over 100k medical appointments in Brazil 
 
 Beginning with the [first successful orbital launch in 1957](https://en.wikipedia.org/wiki/History_of_spaceflight), space agencies, spacefaring entities and other groups [explore our solar system and beyond with space missions](https://www.planetary.org/space-missions). These space missions launch rockets that place satellites into orbit around Earth for purposes ranging from science and research, communication, reconnaissance, Earth observation to commercial purposes such as space tourism and exploration.
 
-In this project, I explore, clean, transform analyze and visualize data on more than 4000 space missions from 1957 to 2022 including details on the location, date, result of the launch; company responsible; name, price and status of rocket used.
+In this project, I explore, clean, transform analyze and visualize data on **more than 4000** space missions from 1957 to 2022 including details on the location, date, result of the launch; company responsible; name, price and status of rocket used.
 Employing `Pandas`, `NumPy`, `Matplotlib` and `Seaborn`, I uncover insights to questions such as:
 -	The relationship between mission status and rocket status.
 -	The correlation between price of rocket and year of launch.
@@ -44,9 +44,9 @@ Employing `Pandas`, `NumPy`, `Matplotlib` and `Seaborn`, I uncover insights to q
 ### ***[WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs)*** Twitter Archive Data Wrangling Project
 
 In this project, focused on the data wrangling process, I use `Pandas`, `Requests`, `Tweepy` to gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, and then clean it while documenting my wrangling efforts in Jupyter Notebook, and showcasing them through analyses and visualizations.
-The dataset wrangled, analyzed and visualized is the tweet archive of Twitter user [*@dog_rates*](https://twitter.com/dog_rates), also known as [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs), a popular Twitter account with more than 9 million followers, featured extensively in the international media, which rates people's dogs with a humorous comment about the dog rated. 
+The dataset wrangled, analyzed and visualized is the tweet archive of Twitter user [*@dog_rates*](https://twitter.com/dog_rates), also known as [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs), a popular Twitter account with **more than 9 million** followers, featured extensively in the international media, which rates people's dogs with a humorous comment about the dog rated. 
 For this project, the pieces of data I work on include:
--  ***WeRateDogs***' Twitter archive data which contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets from its inception in 2015 till August 1, 2017 only.
+-  ***WeRateDogs***' Twitter archive data which contains basic tweet data (tweet ID, timestamp, text, etc.) for all **5000+** of their tweets from its inception in 2015 till August 1, 2017 only.
 - The tweet image prediction file programmatically downloaded using the `Requests` library, amongst others.
   
 After wrangling and exploring the data, some of the insights I unveil include:
@@ -83,5 +83,5 @@ After wrangling and exploring the data, some of the insights I unveil include:
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+*<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">*evanca*</a></p>*
 <!-- Remove above link if you don't want to attibute -->
