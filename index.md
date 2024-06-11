@@ -85,5 +85,5 @@ After wrangling and exploring the data, some of the insights I unveil include:
 
 
 ---
-*<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>*
+<p style="font-size:11px"><i>Page template forked from</i> <a href="https://github.com/evanca/quick-portfolio"><i>evanca</i></a></p>
 <!-- Remove above link if you don't want to attibute -->
