@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Template for portfolio forked from [@evanca](https://github.com/evanca)! Based on a Minimal Jekyll theme for GitHub Pages.
+Template for [my portfolio](https://chrise-co.github.io) forked from [@evanca](https://github.com/evanca)! Based on a Minimal Jekyll theme for GitHub Pages.
 
 <img src="images/demo.gif?raw=true"/>
 
