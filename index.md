@@ -1,4 +1,4 @@
-## My projects
+## Selected DA projects
 
 ---
 
@@ -44,7 +44,7 @@ Employing `Pandas`, `NumPy`, `Matplotlib` and `Seaborn`, I uncover insights to q
 ### ***[WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs)*** Twitter Archive Data Wrangling Project
 
 In this project, focused on the data wrangling process, I use `Pandas`, `Requests`, `Tweepy` to gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, and then clean it while documenting my wrangling efforts in Jupyter Notebook, and showcasing them through analyses and visualizations.
-The dataset wrangled, analyzed and visualized is the tweet archive of Twitter user [*@dog_rates*](https://twitter.com/dog_rates), also known as [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs), a popular Twitter account with **more than 9 million followers**, featured extensively in the international media, which rates people's dogs with a humorous comment about the dog rated. 
+The dataset wrangled, analyzed and visualized is the tweet archive of Twitter user [*@dog_rates*](https://twitter.com/dog_rates), also known as [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs), a popular Twitter account with **more than 9 million followers**, featured extensively in the international media, which [rates people's dogs with a humorous comment about the dog](https://en.wikipedia.org/wiki/WeRateDogs). 
 For this project, the pieces of data I work on include:
 -  ***WeRateDogs***' Twitter archive data which contains basic tweet data (tweet ID, timestamp, text, etc.) for all **5000+** of their tweets from its inception in 2015 till August 1, 2017 only.
 - The tweet image prediction file programmatically downloaded using the `Requests` library, amongst others.
